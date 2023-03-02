@@ -11,4 +11,4 @@ Using possion model, only have one parameter (lambda) <br>
 even if it is a good model, it will never be perfect. only one paratmenter controls mean and shape of distribution. <br>
 
 > "All models are wrong but some models are useful." --- George Box
-
+It will depend on the assumptions of the model and the quality of input data. <br>
