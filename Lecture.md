@@ -15,3 +15,8 @@ even if it is a good model, it will never be perfect. only one paratmenter contr
 
 
 It will depend on the assumptions of the model and the quality of input data. <br>
+We need a probability model for the evolution of sequences along a phylogentic tree. --- we only focus mutation process between two seqeunces <br>
+1. we need to assume the mutation process is same at every branch of tree  --- we only focus mutation process between two seqeunces <br>
+2. we assume all the sites evolve independently ---- we can focus on the mutation process between two sites  <br>
+3. all sites evolve the same -- we can choose any site to model the mutation process <br>
+Even if we are seeing A - A, doesn't means there is no mutation at the beginning.number of mutations on time t is assumed to folow a possion distribution <br>
