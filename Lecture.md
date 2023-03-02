@@ -20,3 +20,8 @@ We need a probability model for the evolution of sequences along a phylogentic t
 2. we assume all the sites evolve independently ---- we can focus on the mutation process between two sites  <br>
 3. all sites evolve the same -- we can choose any site to model the mutation process <br>
 Even if we are seeing A - A, doesn't means there is no mutation at the beginning.number of mutations on time t is assumed to folow a possion distribution <br>
+
+Jukes Cantor(JC69) assume AGCT have the same frequency <br>
+Felsenstein model(F81) more realistic model becuase not setting AGCT in same frequency, based on observed sequence <br>
+General Time Reversible (GTR) used a lot by recent people, it is flexible. <br>
+We will cover model selection in the future class. we will to choose the model best fit for our data. it is not necessary to use complicated model. simplest model will be the best 
