@@ -1,6 +1,6 @@
 Lecture material
 ================
-## 2023-03-02 lecture 9(https://github.com/crsl4/phylogenetics-class/blob/master/lecture-notes/lecture9.pdf)
+## 2023-03-02 [lecture 9](https://github.com/crsl4/phylogenetics-class/blob/master/lecture-notes/lecture9.pdf)
 Probability model P(x) <br>
 Assumptions: <br>
 1.symmertic around the mean? <br>
