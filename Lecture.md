@@ -25,3 +25,13 @@ Jukes Cantor(JC69) assume AGCT have the same frequency <br>
 Felsenstein model(F81) more realistic model becuase not setting AGCT in same frequency, based on observed sequence <br>
 General Time Reversible (GTR) used a lot by recent people, it is flexible. <br>
 We will cover model selection in the future class. we will to choose the model best fit for our data. it is not necessary to use complicated model. simplest model will be the best 
+
+## 2023-03-09
+## Maximum likelihood
+building phylogenetic inference
+step 1: choose the criterion to use distances, parsimony,llikelihood <br>
+step 2: search the space of trees until you find the optimum. <br>
+1.choose a substitution model <br>
+2.for a given tree,calucalte the likelihood give the data and the subtituide model <br>
+3.sear the space of trees using the tree moves until you find the maximum likelihood tree. <br>
+calculate the likelihood for this tree dependes on parameters. Q matrix
